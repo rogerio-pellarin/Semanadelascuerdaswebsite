@@ -1,0 +1,111 @@
+
+[
+  {
+    "id": "1",
+    "bio": "Director titular de la Orquesta Sinfónica de Burgos y pianista invitado por orquestas como London Philharmonic, Konzerthausorchester Berlin, Wiener Kammerorchester y Orchestre de Paris; ha actuado en salas como Concertgebouw, Carnegie Hall y Berliner Philharmonie. Sus grabaciones con Warner y Sony, y su álbum para Orchid Classics (⭐️⭐️⭐️⭐️⭐️ en BBC Music Magazine), avalan su perfil de referencia.",
+    "name": "Iván Martín",
+    "role": "Director Artístico",
+    "image": "https://tjbdedlujgjrnxazvpxa.supabase.co/storage/v1/object/public/maestros-images/ivan.jpg",
+    "order": 1,
+    "country": "España",
+    "featured": true,
+    "instrument": "Piano / Dirección",
+    "institution": "Orquesta Sinfónica de Burgos"
+  },
+  {
+    "id": "2",
+    "bio": "Concertino y solista con la Orquesta Sinfónica de Burgos, con colaboraciones en la Orquesta Nacional de España, RTVE y Castilla y León. Integra el Galdós Ensemble, realiza grabaciones para Warner y Deutsche Grammophon, y cofundó la iniciativa pedagógica Violinada en Castilla y León.",
+    "name": "Sheila Gómez",
+    "role": "Concertino",
+    "image": "https://tjbdedlujgjrnxazvpxa.supabase.co/storage/v1/object/public/maestros-images/sheila.jpg",
+    "order": 2,
+    "country": "España",
+    "featured": true,
+    "instrument": "Violín",
+    "institution": "Orquesta Sinfónica de Burgos"
+  },
+  {
+    "id": "3",
+    "bio": "Premio Extraordinario en violín y trayectoria en la OSCyL; hoy compagina escenario y docencia como profesora del Conservatorio Profesional de Salamanca. Su enfoque integra técnica, preparación escénica y herramientas de mindfulness para el rendimiento musical.",
+    "name": "Diana Domínguez",
+    "role": "Profesora",
+    "image": "https://tjbdedlujgjrnxazvpxa.supabase.co/storage/v1/object/public/maestros-images/diana.jpg",    
+    "order": 3,
+    "country": "España",
+    "featured": true,
+    "instrument": "Violín",
+    "institution": "Conservatorio Profesional de Salamanca"
+  },
+  {
+    "id": "4",
+    "bio": "Formada en la E.S.M. Reina Sofía (Madrid) y Meadows School of Arts (Dallas), fue miembro de Camerata Bariloche y concertino invitada en proyectos en Europa y América. Ha grabado Montsalvatge, Messiaen, Takemitsu y Milhaud; hoy es catedrática de Música de Cámara y Cuarteto en el Conservatorio Superior de Castilla y León.",
+    "name": "Marta Roca",
+    "role": "Catedrática",
+    "image": "https://tjbdedlujgjrnxazvpxa.supabase.co/storage/v1/object/public/maestros-images/marta.jpg",
+    "order": 4,
+    "country": "España",
+    "featured": true,
+    "instrument": "Violín",
+    "institution": "Conservatorio Superior de Castilla y León"
+  },
+  {
+    "id": "5",
+    "bio": "Profesor de violín y armonía en el Conservatorio Amaniel (Madrid), líder del grupo historicista Exordium Musicae (Auditorio Nacional, Palacio Real) y Premio de Honor Fin de Carrera (RCSMM). Grabó la primera versión moderna de tríos de Gaetano Brunetti para la Sociedad Española de Musicología y firma investigación musicológica publicada en Quodlibet.",
+    "name": "David Santacecilia",
+    "role": "Profesor",
+    "image": "https://tjbdedlujgjrnxazvpxa.supabase.co/storage/v1/object/public/maestros-images/david.jpg",
+    "order": 5,
+    "country": "España",
+    "featured": true,
+    "instrument": "Violín",
+    "institution": "Conservatorio Amaniel"
+  },
+  {
+    "id": "6",
+    "bio": "Ha sido parte de EUYO y de destacadas orquestas españolas; actuó en el Wiener Musikverein y el Tokyo Metropolitan Art Space. Actualmente es ayuda de solista en la Orquesta Sinfónica de Burgos y dirige las Jornadas de Violonchelo Cellocyl en Castilla y León.",
+    "name": "Mikel Zunzundegui",
+    "role": "Ayuda de Solista",
+    "image": "https://tjbdedlujgjrnxazvpxa.supabase.co/storage/v1/object/public/maestros-images/mikel.jpg",
+    "order": 6,
+    "country": "España",
+    "featured": true,
+    "instrument": "Violonchelo",
+    "institution": "Orquesta Sinfónica de Burgos"
+  },
+  {
+    "id": "7",
+    "bio": "Violochelista solista de la Filarmónica de Ulm y profesora en la Universidad de Música de Münster. Ganadora de Concurso Internacional David Popper (Hungría), Ouro Branco (Brasil) y Sant'Alfonso (Italia), con actividad como solista y en conjuntos de música contemporánea y barroca.",
+    "name": "Julia Wasmund",
+    "role": "Solista",
+    "image": "https://tjbdedlujgjrnxazvpxa.supabase.co/storage/v1/object/public/maestros-images/julia.jpg",
+    "order": 7,
+    "country": "Alemania",
+    "featured": true,
+    "instrument": "Violonchelo",
+    "institution": "Filarmónica de Ulm"
+  },
+  {
+    "id": "8",
+    "bio": "Bachelor con máximas calificaciones (Conservatorios G. Verdi de Turín y Milán) y Master of Performance con distinción (Musikhochschule Münster). Integró la Orchestra Giovanile Italiana, colabora con Orchestra Milano Classica y enseña en Italia y Alemania; recitales en la Embajada de Italia en Mongolia y el Consulado de Italia en Belo Horizonte.",
+    "name": "Victoria Saldarini",
+    "role": "Cellista",
+    "image": "https://tjbdedlujgjrnxazvpxa.supabase.co/storage/v1/object/public/maestros-images/victoria.jpg",
+    "order": 8,
+    "country": "Italia/Bélgica",
+    "featured": true,
+    "instrument": "Violonchelo",
+    "institution": "Orchestra Milano Classica"
+  },
+  {
+    "id": "9",
+    "bio": "Formado en la Juilliard School (Nueva York), solista con la Filarmónica de Qatar y principales orquestas brasileñas; Premio Carlos Gomes (2006) y reconocimientos de la crítica por su sonido y musicalidad. Profesor e investigador en UFRN, con masterclasses en academias europeas y latinoamericanas.",
+    "name": "Fabio Presgrave",
+    "role": "Solista y Profesor",
+    "image": "https://tjbdedlujgjrnxazvpxa.supabase.co/storage/v1/object/public/maestros-images/fabio.jpg",
+    "order": 9,
+    "country": "Brasil",
+    "featured": true,
+    "instrument": "Violonchelo",
+    "institution": "Juilliard School / UFRN"
+  }
+]
